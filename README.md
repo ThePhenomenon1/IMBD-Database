@@ -1,5 +1,5 @@
 # IMBD-Database
-Creating your own dataset. Scraping multiple pages of data from the IMDB website, in a single script, to fetch top 100 movies metadata. (Using Beautiful Soup4 and requests.)
+Creating your own dataset. Scraping multiple pages of data from the IMDB website, in a single script, to fetch top 100 movies metadata. (Utilizing Beautiful Soup4 and requests.)
 
 Especially the metadata:
     
