@@ -2,7 +2,7 @@
 # IMBD-Database
 Creating your own dataset. This by scraping multiple pages of data from the IMDB website, in a single script, to fetch IMDB's top 100 movies metadata. Utilizing the software packages Beautiful Soup4 and requests. Incidentally, the requests library is integral to building a pure Django Application Programming Interface (API).
 
-Especially the metadata:
+This is the metadata:
     
  1. Movie Name 
  2. Release Year
