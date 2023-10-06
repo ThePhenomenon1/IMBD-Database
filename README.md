@@ -4,6 +4,8 @@ Creating your own dataset. This is fundamental Data Science. We execute this Dat
 
 Incidentally, the requests library is integral if you want to build a pure Python Application Programming Interface (API).
 
+The target here is metadata. Metadata is defined as the information that describes and explains data. It provides context with details such as the source, type, owner, and relationships to other data sets. So, it can help you understand the relevance of a particular data set and guide you on how to use it.
+
 This is the targeted metadata:
     
  1. Movie Name 
