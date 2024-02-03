@@ -6,7 +6,7 @@ Incidentally, the requests library is integral if you want to build a pure Pytho
 
 The target here is metadata. Metadata is defined as the information that describes and explains data. It provides context with details such as the source, type, owner, and relationships to other data sets. So, it can help you understand the relevance of a particular data set and guide you on how to use it.
 
-Most of my Project models which are classes themselves contain Meta classes which further refine the data representation culminating in the data fields.
+Most of my Project models which are classes themselves; then contain Meta classes which further refine the data representation culminating in the data fields that are Client-side.
 
 This is the targeted metadata:
     
